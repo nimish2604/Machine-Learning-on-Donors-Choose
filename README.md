@@ -21,6 +21,6 @@ The goal of the competition is to predict whether or not a DonorsChoose.org proj
 A lot of detailed analysis is done along side calculating performance metrics. These Three algorithms were chosen as each Algorithm has some traits and in Machine Learning we can only get 
 better results if we keep on trying and experimenting with different ideas.
 
-CREDIT : AAIC Course guided me on this. (PS I did these as assignents under them).
+CREDITS : AAIC Course guided me on this. (PS I did these as assignents under them).
 
 The Dataset can be downloaded from kaggle as this is one of the propsed kaggle competetion problems.
